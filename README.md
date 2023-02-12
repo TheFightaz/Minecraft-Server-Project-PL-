@@ -35,8 +35,11 @@ W skrócie;
 
 ### <p align="left">Olaf [22]</p>
 Chętnie rozwijający swoją pasję IT, młody, ambitny i co najważniejsze twórczy w tym co robi. Zajmuję się naszą stroną techniczną,
-zabezpieczeniami jak i tworzeniem wszystkiego co można zobaczyć na serwerze
+zabezpieczeniami jak i tworzeniem wszystkiego co można zobaczyć na serwerze.
+Chętnie niesie pomoc wszystkim graczom na serwerze, jak i poza nim - potrzebujecie pomocy? Wystarczy napisać :)
 
 <p align="right"><img src="https://media.licdn.com/dms/image/C4D03AQEvXpEKDnTtQg/profile-displayphoto-shrink_800_800/0/1663852503361?e=1681948800&v=beta&t=fUIwd3po_ryWTdKDbcHm3Duz5viAgsekqGUlSQtP8Fk" width="100" height="100" style="max-width: 100%;"></p>
 
 ### <p align="right">Szymon [23]</p>
+<p align="right">Pomysłodawca, księgowy i nasz serwerowy śmieszek. Na serwerze udziela się bardziej od strony kreatywności,
+to dzięki niemu nasz technik wie co robić i jak się do tego zabrać. Odpowiada również za serwerową gospodarkę, dzięki czemu szybko nie upada.</p>
