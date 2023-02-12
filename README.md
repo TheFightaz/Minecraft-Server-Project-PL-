@@ -29,3 +29,14 @@ W skrócie;
 - Wybierając nas, wybieracie poznawanie Minecrafta na nowo, a chyba o to chodzi, prawda? Stawiamy na nowości oparte na technologii "Java" oraz "Skript" to umożliwia nam tworzenie nowości, które możecie zobaczyć u nas na serwerze.
 
 
+## <p align="center">O nas</p>
+
+<p align="left"><img src="https://media.licdn.com/dms/image/C5603AQEAAi8OCQcw8g/profile-displayphoto-shrink_800_800/0/1633794717369?e=1681948800&v=beta&t=1UUK0q7E32X6kpIysA2BvSzycH5b2OkZoka5OfRs-7E" width="100" height="100" style="max-width: 100%;"></p>
+
+### <p align="left">Olaf [22]</p>
+Chętnie rozwijający swoją pasję IT, młody, ambitny i co najważniejsze twórczy w tym co robi. Zajmuję się naszą stroną techniczną,
+zabezpieczeniami jak i tworzeniem wszystkiego co można zobaczyć na serwerze
+
+<p align="right"><img src="https://media.licdn.com/dms/image/C4D03AQEvXpEKDnTtQg/profile-displayphoto-shrink_800_800/0/1663852503361?e=1681948800&v=beta&t=fUIwd3po_ryWTdKDbcHm3Duz5viAgsekqGUlSQtP8Fk" width="100" height="100" style="max-width: 100%;"></p>
+
+### <p align="right">Szymon [23]</p>
