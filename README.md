@@ -1,2 +1,2 @@
-                                                         McSquare.pl
+                                                    McSquare.pl
 Opis.
