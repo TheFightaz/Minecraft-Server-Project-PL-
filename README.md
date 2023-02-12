@@ -1,2 +1,2 @@
-# Minecraft-Server-Project-PL-
+[center]McSquare.pl[/center]
 Opis.
