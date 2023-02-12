@@ -14,3 +14,9 @@ Nasz serwer zaczął powstawać już bardzo dawno, wszystko zaczęło się od zw
 <img src="https://media.discordapp.net/attachments/670930542790705174/871403238514102312/2021-03-17_11.44.21.png?width=748&height=396" width="1920" height="300" style="max-width: 100%;">
 
 Takim sposobem osiągneliśmy w pewien sposób popularność na Polskiej scenie Minecrafta. Każdego dnia rozwijamy nasz projekt o dodatkowe zasoby jak i bardzo dobrą optymalizację, która pozwala na swobodne granie na serwerze. Do tej pory nie padliśmy ofiarami ataku "hakerskiego" przez co jesteśmy serwerem bezpiecznym do grania, żadne hasła, czy inne dane poufne nie wyciekły do sieci. Chcemy aby nasz serwer był przyjemnym miejscem do rozgrywki dla każdego - bo wkońcu też kiedyś byliśmy graczmi, którzy chcieli pograć na dopracowanym serwerze.
+
+
+## <p align="center">Co oferujemy</p>
+
+Nasza serwer wychodzi z założenia - "Zrobić coś autorskiego, co nigdy nie było widziane przez graczy na konkurencyjnych serwerach", dlatego tworzymy pomysły aby każdy gracz poznawał Minecrafta na nowo, dlaczego?
+- Odpowiedź jest prosta, ludzie grający w gry, chcą grać jak najdlużej w jedną gre poznając w niej nowości. Przykładowo dajmą na celownik inną gre, gdy kończymy dany tytuł wiemy o niej dużo, ale czy wystarczająco? Większość graczy chce poznawać "Easter-Eggi" - czyli coś co ukrył twórca gry, żeby gracz mógł to znależć. My używamy techniki nieco innej, ponieważ nie ukrywamy nic, a dajemy graczom coś odrazu na widoku, żeby po wejściu na serwer było - WOW! Tworzymy nowe algorytmy przechodzenia u nas rozgrywki, dzięki czemu wydłuza to gre u nas!
