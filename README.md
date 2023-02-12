@@ -20,3 +20,12 @@ Takim sposobem osiągneliśmy w pewien sposób popularność na Polskiej scenie 
 
 Nasza serwer wychodzi z założenia - "Zrobić coś autorskiego, co nigdy nie było widziane przez graczy na konkurencyjnych serwerach", dlatego tworzymy pomysły aby każdy gracz poznawał Minecrafta na nowo, dlaczego?
 - Odpowiedź jest prosta, ludzie grający w gry, chcą grać jak najdlużej w jedną gre poznając w niej nowości. Przykładowo dajmą na celownik inną gre, gdy kończymy dany tytuł wiemy o niej dużo, ale czy wystarczająco? Większość graczy chce poznawać "Easter-Eggi" - czyli coś co ukrył twórca gry, żeby gracz mógł to znależć. My używamy techniki nieco innej, ponieważ nie ukrywamy nic, a dajemy graczom coś odrazu na widoku, żeby po wejściu na serwer było - WOW! Tworzymy nowe algorytmy przechodzenia u nas rozgrywki, dzięki czemu wydłuza to gre u nas!
+
+
+## <p align="center">Dlaczego my</p>
+
+Tutaj można wymieniać w nieskończonośc i porównywać rózne serwery, ale nie o to chodzi.
+W skrócie;
+- Wybierając nas, wybieracie poznawanie Minecrafta na nowo, a chyba o to chodzi, prawda? Stawiamy na nowości oparte na technologii "Java" oraz "Skript" to umożliwia nam tworzenie nowości, które możecie zobaczyć u nas na serwerze.
+
+
